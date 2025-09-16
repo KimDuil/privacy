@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>개인정보처리방침</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>[So simple counter] 개인정보처리방침</h1>
+    
+    <h2>개인정보 수집 및 이용</h2>
+    <p>본 앱은 어떠한 개인정보도 수집하지 않습니다.</p>
+    
+    <h2>데이터 저장</h2>
+    <p>모든 데이터는 사용자 기기에만 저장되며, 외부로 전송되지 않습니다.</p>
+    
+    <h2>문의사항</h2>
+    <p>개인정보처리방침에 관한 문의: [doitfill.dev@gmail.com]</p>
+    
+    <p>최종 업데이트: 2025년 9월</p>
+</body>
+</html>
